@@ -1,3 +1,3 @@
 # Design de landing page 
 ## Layout
-![imagem](./.github/preview.png)
+![imagem](https://github.com/Yaguu/form/blob/main/preview.png)
